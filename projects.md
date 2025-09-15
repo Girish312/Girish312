@@ -16,6 +16,6 @@
 
 - [Doodle Homes (Villa-Booking App)](https://github.com/Varad11220/dh-varad.git) - A villa booking app with many more options like food & activites for Visitors.
 
-- [Cafe Management System](https://github.com/11-Yash/cafe-management-web-app.git) - Café billing system based on table number with receipt generation and UPI pay QR.
+- [Cafe Management System](https://github.com/Girish312/Cafe-Management-System) - Café billing system based on table number with receipt generation and UPI pay QR.
 
 ---
