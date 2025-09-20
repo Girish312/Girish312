@@ -13,7 +13,6 @@
 
 ### 📂 Explore More
 - 🛠️ [To Projects](projects.md)
-- 💡 [To Usefull Links](usefull.md)
  
 ---
 
